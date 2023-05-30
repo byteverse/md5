@@ -1,6 +1,6 @@
 cabal-version: 2.2
 name: md5
-version: 0.1.0.3
+version: 0.1.0.0
 synopsis: MD5 Hash
 description:
   This library is a copy of cryptohash-md5 that works on GC-managed
