@@ -1,4 +1,4 @@
-# Revision history for sha1
+# Revision history for md5
 
 ## 0.1.0.3 -- 2024-02-01
 
